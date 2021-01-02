@@ -1,6 +1,1 @@
-# This is a test
-
-
-## Ceci est un Test
-
-# Un autre test pour la confirmation
+README file to present the test project
